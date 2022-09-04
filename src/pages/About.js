@@ -22,7 +22,7 @@ const About = () => {
         voluptatem dolorum veritatis quas quasi. Quidem est ipsa nulla porro at
         facilis accusantium odio iusto veritatis deleniti.
       </p>
-      <b />
+      <br />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti,
         aliquid similique, quia reiciendis accusamus minima, consequuntur eos
