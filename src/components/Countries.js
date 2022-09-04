@@ -36,9 +36,7 @@ const Countries = () => {
         ))}
       </ul>
       {selectedRadio && (
-        <button onClick={() => setselectedRadio("")}>
-          Annuler La Recherche
-        </button>
+        <button onClick={() => setselectedRadio("")}>Voir tous les pays</button>
       )}
       <ul>
         {data
